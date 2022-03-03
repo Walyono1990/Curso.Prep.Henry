@@ -1,0 +1,12 @@
+style
+h1{
+    color: blue;
+}
+img {width: 400px;}
+#thirdDiv {width: 500px;
+height: 600px;
+background-color: green;
+padding: 50px;
+border: 10px solid red;}
+ #spanid { font-size: 18px;
+padding: 50px;}
