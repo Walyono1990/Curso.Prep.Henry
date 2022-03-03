@@ -1,7 +1,8 @@
 <style>
-h1 {
-    color: blue
-}
+.h1 {color:red}
+.divclass 
+ h1 {color: red;}
+h3{color:green}
     img { width: 400px
     }
 
